@@ -2,5 +2,6 @@ MASONNET, Inc. Mailing list
 Copyright &copy; 2025 MASONNET, Inc. All rights reserved.
 We will send emails to all users on this mailing list.
 (T)=Test user | (I)=Important user, try to prevent from unsubscribing | (E)=Employee | (A)=All emails | (PL)=Product launches only | (AN)=Account news only | (U)=Unsubscribed | (ABTU)=About to unsubscribe, try to prevent them from doing it
+Subscribe: https://forms.gle/cpU4yR7PzDzp3vjeA | Unsubscribe: https://forms.gle/knmqj8cZwGY4cYKC6
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\//\\/\//\\/\/\/\/\/\/\/\/\//\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\//\/\/\/\\//\\//\\/\/\/\/\/\/\/\/\/\/
 Users:

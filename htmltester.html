@@ -1,0 +1,44 @@
+<html>
+    <style>
+body {
+  font-family: Arial, sans-serif;
+}
+</style>
+<title>MASONNET HTML Tester</title>
+<b><center><h1><img src="https://masonnetincusa.github.io/MASONNET/IMG_0427.png" width="365" height="90" alt="MASONNET Logo"> | HTML Tester</h1></center></b>
+<hr>
+<center>Test HTML functions with this free, online tool!</center>
+    <hr>
+<center>
+<form action="#">
+  <label for="htmltestinput">HTML code tester</label><br>
+<textarea style="height:400px;font-size:24pt;"></textarea>
+ <br><br>
+  <input type="submit" value="Test" required>
+</form> 
+</center>
+    <hr>
+    <center><input type="text" value="" id="myInput">
+<button onclick="myFunction()">Copy text</button>
+
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+}
+</script></center>
+<hr>
+<center><font size="2">Copyright &copy; 2025 MASONNET, Inc. All rights reserved.</font></center>
+<center><font size="2"><a href="https://www.masonnet.org">MASONNET</a> | <a href="https://www.masonnet.org/more/services">More tools from MASONNET</a> | <a href="mailto:masonnet@masonnet.org">Email us!</a></font></center>
+    <hr>
+</html>
